@@ -1,4 +1,4 @@
-.aux
-.log
-.out
-.gz
+proposal.aux
+proposal.log
+proposal.synctex.gz
+.gitignore
