@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.5.30)  14 JUN 2019 18:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.5.30)  15 JUN 2019 05:46
 entering extended mode
 **./proposal.tex
 (proposal.tex
@@ -600,12 +600,16 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 162.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 162.
 Package rerunfilecheck Info: File `proposal.out' has not changed.
 (rerunfilecheck)             Checksum: 25628BB9CA4D0723D82BE6EF5638868E;446.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 162.
  ) 
 Here is how much of TeX's memory you used:
  16838 strings out of 492895
  328689 string characters out of 3133473
- 408589 words of memory out of 3000000
+ 408613 words of memory out of 3000000
  20495 multiletter control sequences out of 15000+200000
  5764 words of font info for 21 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -615,7 +619,7 @@ ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on proposal.pdf (4 pages, 175553 bytes).
+Output written on proposal.pdf (4 pages, 175584 bytes).
 PDF statistics:
  87 PDF objects out of 1000 (max. 8388607)
  14 named destinations out of 1000 (max. 500000)
