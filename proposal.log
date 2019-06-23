@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.5.30)  22 JUN 2019 13:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.5.30)  24 JUN 2019 01:46
 entering extended mode
 **./proposal.tex
 (proposal.tex
@@ -462,6 +462,235 @@ File: pgfmodulematrix.code.tex 2019/05/09 v3.1.3 (3.1.3)
 librarytopaths.code.tex"
 File: tikzlibrarytopaths.code.tex 2019/05/09 v3.1.3 (3.1.3)
 )))
+("C:\Program Files\MiKTeX 2.9\tex/latex/smartdiagram\smartdiagram.sty"
+Package: smartdiagram 2016/12/23 v0.3b Automatic creation of smart diagrams fro
+m lists of items.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.sty"
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count122
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3packages/xparse\xparse.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3kernel\expl3.sty"
+Package: expl3 2019-05-28 L3 programming layer (loader) 
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3kernel\expl3-code.tex"
+Package: expl3 2019-05-28 L3 programming layer (code)
+\c_max_int=\count123
+\l_tmpa_int=\count124
+\l_tmpb_int=\count125
+\g_tmpa_int=\count126
+\g_tmpb_int=\count127
+\g__kernel_prg_map_int=\count128
+\c__ior_term_ior=\count129
+\c_log_iow=\count130
+\l_iow_line_count_int=\count131
+\l__iow_line_target_int=\count132
+\l__iow_one_indent_int=\count133
+\l__iow_indent_int=\count134
+\c_zero_dim=\dimen165
+\c_max_dim=\dimen166
+\l_tmpa_dim=\dimen167
+\l_tmpb_dim=\dimen168
+\g_tmpa_dim=\dimen169
+\g_tmpb_dim=\dimen170
+\c_zero_skip=\skip44
+\c_max_skip=\skip45
+\l_tmpa_skip=\skip46
+\l_tmpb_skip=\skip47
+\g_tmpa_skip=\skip48
+\g_tmpb_skip=\skip49
+\c_zero_muskip=\muskip11
+\c_max_muskip=\muskip12
+\l_tmpa_muskip=\muskip13
+\l_tmpb_muskip=\muskip14
+\g_tmpa_muskip=\muskip15
+\g_tmpb_muskip=\muskip16
+\l_keys_choice_int=\count135
+\l__intarray_loop_int=\count136
+\c__intarray_sp_dim=\dimen171
+\g__intarray_font_int=\count137
+\c__fp_leading_shift_int=\count138
+\c__fp_middle_shift_int=\count139
+\c__fp_trailing_shift_int=\count140
+\c__fp_big_leading_shift_int=\count141
+\c__fp_big_middle_shift_int=\count142
+\c__fp_big_trailing_shift_int=\count143
+\c__fp_Bigg_leading_shift_int=\count144
+\c__fp_Bigg_middle_shift_int=\count145
+\c__fp_Bigg_trailing_shift_int=\count146
+\c__kernel_randint_max_int=\count147
+\g__fp_array_int=\count148
+\l__fp_array_loop_int=\count149
+\l__sort_length_int=\count150
+\l__sort_min_int=\count151
+\l__sort_top_int=\count152
+\l__sort_max_int=\count153
+\l__sort_true_max_int=\count154
+\l__sort_block_int=\count155
+\l__sort_begin_int=\count156
+\l__sort_end_int=\count157
+\l__sort_A_int=\count158
+\l__sort_B_int=\count159
+\l__sort_C_int=\count160
+\l__tl_analysis_normal_int=\count161
+\l__tl_analysis_index_int=\count162
+\l__tl_analysis_nesting_int=\count163
+\l__tl_analysis_type_int=\count164
+\l__regex_internal_a_int=\count165
+\l__regex_internal_b_int=\count166
+\l__regex_internal_c_int=\count167
+\l__regex_balance_int=\count168
+\l__regex_group_level_int=\count169
+\l__regex_mode_int=\count170
+\c__regex_cs_in_class_mode_int=\count171
+\c__regex_cs_mode_int=\count172
+\l__regex_catcodes_int=\count173
+\l__regex_default_catcodes_int=\count174
+\c__regex_catcode_D_int=\count175
+\c__regex_catcode_S_int=\count176
+\c__regex_catcode_L_int=\count177
+\c__regex_catcode_O_int=\count178
+\c__regex_catcode_A_int=\count179
+\c__regex_all_catcodes_int=\count180
+\l__regex_show_lines_int=\count181
+\l__regex_min_state_int=\count182
+\l__regex_max_state_int=\count183
+\l__regex_left_state_int=\count184
+\l__regex_right_state_int=\count185
+\l__regex_capturing_group_int=\count186
+\l__regex_min_pos_int=\count187
+\l__regex_max_pos_int=\count188
+\l__regex_curr_pos_int=\count189
+\l__regex_start_pos_int=\count190
+\l__regex_success_pos_int=\count191
+\l__regex_curr_char_int=\count192
+\l__regex_curr_catcode_int=\count193
+\l__regex_last_char_int=\count194
+\l__regex_case_changed_char_int=\count195
+\l__regex_curr_state_int=\count196
+\l__regex_step_int=\count197
+\l__regex_min_active_int=\count198
+\l__regex_max_active_int=\count199
+\l__regex_replacement_csnames_int=\count266
+\l__regex_match_count_int=\count267
+\l__regex_min_submatch_int=\count268
+\l__regex_submatch_int=\count269
+\l__regex_zeroth_submatch_int=\count270
+\g__regex_trace_regex_int=\count271
+\c_empty_box=\box38
+\l_tmpa_box=\box39
+\l_tmpb_box=\box40
+\g_tmpa_box=\box41
+\g_tmpb_box=\box42
+\l__box_top_dim=\dimen172
+\l__box_bottom_dim=\dimen173
+\l__box_left_dim=\dimen174
+\l__box_right_dim=\dimen175
+\l__box_top_new_dim=\dimen176
+\l__box_bottom_new_dim=\dimen177
+\l__box_left_new_dim=\dimen178
+\l__box_right_new_dim=\dimen179
+\l__box_internal_box=\box43
+\l__coffin_internal_box=\box44
+\l__coffin_internal_dim=\dimen180
+\l__coffin_offset_x_dim=\dimen181
+\l__coffin_offset_y_dim=\dimen182
+\l__coffin_x_dim=\dimen183
+\l__coffin_y_dim=\dimen184
+\l__coffin_x_prime_dim=\dimen185
+\l__coffin_y_prime_dim=\dimen186
+\c_empty_coffin=\box45
+\l__coffin_aligned_coffin=\box46
+\l__coffin_aligned_internal_coffin=\box47
+\l_tmpa_coffin=\box48
+\l_tmpb_coffin=\box49
+\g_tmpa_coffin=\box50
+\g_tmpb_coffin=\box51
+\l__coffin_bounding_shift_dim=\dimen187
+\l__coffin_left_corner_dim=\dimen188
+\l__coffin_right_corner_dim=\dimen189
+\l__coffin_bottom_corner_dim=\dimen190
+\l__coffin_top_corner_dim=\dimen191
+\l__coffin_scaled_total_height_dim=\dimen192
+\l__coffin_scaled_width_dim=\dimen193
+\c__coffin_empty_coffin=\box52
+\l__coffin_display_coffin=\box53
+\l__coffin_display_coord_coffin=\box54
+\l__coffin_display_pole_coffin=\box55
+\l__coffin_display_offset_dim=\dimen194
+\l__coffin_display_x_dim=\dimen195
+\l__coffin_display_y_dim=\dimen196
+\g__file_internal_ior=\read2
+\l__seq_internal_a_int=\count272
+\l__seq_internal_b_int=\count273
+\c__deprecation_minus_one=\count274
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3kernel\l3pdfmode.def"
+File: l3pdfmode.def 2019-04-06 v L3 Experimental driver: PDF mode
+\l__driver_internal_box=\box56
+\l__driver_color_stack_int=\count275
+))
+Package: xparse 2019-05-28 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count276
+\g__xparse_grabber_int=\count277
+\l__xparse_m_args_int=\count278
+\l__xparse_v_nesting_int=\count279
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/xstring\xstring.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/xstring\xstring.tex"
+\integerpart=\count280
+\decimalpart=\count281
+)
+Package: xstring 2019/02/06 v1.83 String manipulations (CT)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+librarybackgrounds.code.tex"
+File: tikzlibrarybackgrounds.code.tex 2019/05/09 v3.1.3 (3.1.3)
+\pgf@layerbox@background=\box57
+\pgf@layerboxsaved@background=\box58
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+librarycalc.code.tex"
+File: tikzlibrarycalc.code.tex 2019/05/09 v3.1.3 (3.1.3)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+libraryfadings.code.tex"
+File: tikzlibraryfadings.code.tex 2019/05/09 v3.1.3 (3.1.3)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/libraries\pgflibraryfadings.code.
+tex"
+File: pgflibraryfadings.code.tex 2019/05/09 v3.1.3 (3.1.3)
+))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+libraryshadows.code.tex"
+File: tikzlibraryshadows.code.tex 2019/05/09 v3.1.3 (3.1.3)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+libraryshapes.arrows.code.tex"
+File: tikzlibraryshapes.arrows.code.tex 2019/05/09 v3.1.3 (3.1.3)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/libraries/shapes\pgflibraryshapes
+.arrows.code.tex"
+File: pgflibraryshapes.arrows.code.tex 2019/05/09 v3.1.3 (3.1.3)
+))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+libraryshapes.symbols.code.tex"
+File: tikzlibraryshapes.symbols.code.tex 2019/05/09 v3.1.3 (3.1.3)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/libraries/shapes\pgflibraryshapes
+.symbols.code.tex"
+File: pgflibraryshapes.symbols.code.tex 2019/05/09 v3.1.3 (3.1.3)
+))
+\pgf@layerbox@smart diagram arrow back=\box59
+\pgf@layerboxsaved@smart diagram arrow back=\box60
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/smartdiagram\smartdiagramlibrarycore.de
+finitions.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex/latex/smartdiagram\smartdiagramlibrarycore.st
+yles.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex/latex/smartdiagram\smartdiagramlibrarycore.co
+mmands.code.tex"))
 ("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
 libraryshapes.geometric.code.tex"
 File: tikzlibraryshapes.geometric.code.tex 2019/05/09 v3.1.3 (3.1.3)
@@ -477,26 +706,26 @@ File: tikzlibraryarrows.code.tex 2019/05/09 v3.1.3 (3.1.3)
 ("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/libraries\pgflibraryarrows.code.t
 ex"
 File: pgflibraryarrows.code.tex 2019/05/09 v3.1.3 (3.1.3)
-\arrowsize=\dimen165
+\arrowsize=\dimen197
 )) (proposal.aux)
 \openout1 = `proposal.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-\AtBeginShipoutBox=\box38
-Package hyperref Info: Link coloring OFF on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+\AtBeginShipoutBox=\box61
+Package hyperref Info: Link coloring OFF on input line 15.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -504,11 +733,11 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count122
+\c@section@level=\count282
 )
-LaTeX Info: Redefining \ref on input line 14.
-LaTeX Info: Redefining \pageref on input line 14.
-LaTeX Info: Redefining \nameref on input line 14.
+LaTeX Info: Redefining \ref on input line 15.
+LaTeX Info: Redefining \pageref on input line 15.
+LaTeX Info: Redefining \nameref on input line 15.
 
 (proposal.out) (proposal.out)
 \@outlinefile=\write4
@@ -517,16 +746,16 @@ LaTeX Info: Redefining \nameref on input line 14.
 
 ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count123
-\scratchdimen=\dimen166
-\scratchbox=\box39
-\nofMPsegments=\count124
-\nofMParguments=\count125
+\scratchcounter=\count283
+\scratchdimen=\dimen198
+\scratchbox=\box62
+\nofMPsegments=\count284
+\nofMParguments=\count285
 \everyMPshowfont=\toks30
-\MPscratchCnt=\count126
-\MPscratchDim=\dimen167
-\MPnumerator=\count127
-\makeMPintoPDFobject=\count128
+\MPscratchCnt=\count286
+\MPscratchDim=\dimen199
+\MPnumerator=\count287
+\makeMPintoPDFobject=\count288
 \everyMPtoPDFconversion=\toks31
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -575,48 +804,58 @@ G,.JBIG2,.JB2,.eps]
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-ABD: EveryShipout initializing macros
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 61.
+ABD: EveryShipout initializing macros [1
+
+{C:/Users/Shafkat/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 62.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 61.
- [1
-
-{C:/Users/Shafkat/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] [3]
-Overfull \hbox (12.61107pt too wide) in paragraph at lines 190--191
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 62.
+ [2] [3]
+Overfull \hbox (12.61107pt too wide) in paragraph at lines 205--206
 \OT1/cmr/m/n/10 Data col-lected in this man-ner are non-linear,multi-modal,Non-
 structured, has high vol-ume and Mulit-formatted.Through
  []
 
-[4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 207.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 207.
+[4] [5]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 223.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 223.
  (proposal.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 207.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 207.
-Package rerunfilecheck Info: File `proposal.out' has not changed.
-(rerunfilecheck)             Checksum: 273769DDE3BC47EB7AE983A40098F150;665.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 207.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 223.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 223.
+
+
+Package rerunfilecheck Warning: File `proposal.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `proposal.out':
+(rerunfilecheck)             Before: FC4B9852F899D670D72AC99B51FA99BB;761
+(rerunfilecheck)             After:  BD2CFAFFFE07756E1F463D78862982C3;723.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 223.
  ) 
 Here is how much of TeX's memory you used:
- 16837 strings out of 492895
- 328663 string characters out of 3133473
- 410376 words of memory out of 3000000
- 20493 multiletter control sequences out of 15000+200000
- 5764 words of font info for 21 fonts, out of 3000000 for 9000
+ 28057 strings out of 492895
+ 556786 string characters out of 3133473
+ 626037 words of memory out of 3000000
+ 31642 multiletter control sequences out of 15000+200000
+ 534462 words of font info for 31 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,6n,56p,971b,774s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on proposal.pdf (4 pages, 94134 bytes).
+ 55i,7n,74p,971b,771s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{section.12} has been referenced but does not exis
+t, replaced by a fixed one
+
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on proposal.pdf (5 pages, 104509 bytes).
 PDF statistics:
- 101 PDF objects out of 1000 (max. 8388607)
- 17 named destinations out of 1000 (max. 500000)
- 109 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 141 PDF objects out of 1000 (max. 8388607)
+ 20 named destinations out of 1000 (max. 500000)
+ 233 words of extra memory for PDF output out of 10000 (max. 10000000)
 
