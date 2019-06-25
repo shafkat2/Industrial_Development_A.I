@@ -216,8 +216,25 @@ Algorithms for Bearing Fault Diagnostics}
 \item{Prescriptive: Identify measure to improve outcome of correct problems}
 	\end{itemize}
 		Above points answers question like what happened,why it happened, what will happened and what are the action to take.This questions reveal a big picture about the manufacturing process and give us enough information to make informative decision at the nick of time.This answers were hard to predict in the sense that data collected for answering this question were complex in nature and could not be answered accurately with traditional machine learning algorithms.Deep learning paved the way for us to answer this questions using data which are high in velocity, variety and volume.
+      \section{Possible Approaches of Data Analytics:}  
+      So, to apply any data analytics  to increase efficiency first we need to collect data.The possible ways to properly collect the meaningful data is through various types of sensors.
+      
+      firstly to keep track of products we produce could use an radio-frequency identification for each product this allows us to detect the number of products produced with respect to time. This give us insight about the production rate so, in any case if production drops we would be able to easily identify.This tracking of product also allows us to be aware of the 
+      
+      Secondly, the machines follow a steady frequency while its in production, so with the help of an accelometer we would be able to produce a time-series signal of the machine, thus giving a us monotonous pattern about the machine in work.In the case of any faults the vibration should change for example lose bearing,faults in motor etc.The time series data acquired through such means could be analyzed with Convolution neural network to extract temporal features while  Long short-term memory could be used to analyze the features as Lstm allows keeps previous information to make decision or we could use wavelet to derive features from this signal and then use Lstm to analyze the data further.
+      
+      Thirdly, data about people and their activities, it could be done through few means these are 
+       	\begin{itemize}
         
-       
+\item{Camera: We could use image processing to determine their activities and how they control the machines using their computer in order to always look for possible errors or mistake made by the workers that could halt or hamper the production process. }
+\item{eSense: It is a tool that allows us to monitor various human interactions and activities using a small wearable device.This device give use few information about the use like stress and emotion in voice, is he standing or walking, which direction he is looking and the position of the wearer inside the factory.
+} 
+	Lastly,the room temperature and electricity data should be collected.Wrong room temperature might ruin the product quality and 
+high electricity consumption could increase the production cost significantly.
+	We can analyze all this data to answer questions like what happened, whyit happened, what will happen and what action to take.
+
+
+	\end{itemize}
 \end{normalsize}
   
 \end{document}
