@@ -7,6 +7,7 @@
 \usepackage{tikz}
 \usepackage{smartdiagram}
 \usetikzlibrary{shapes.geometric,arrows}
+\usepackage{tabu}
 \tikzstyle{startstop} = [rectangle, rounded corners, minimum width = 3cm, minimum height = 1cm,text centered, draw = black ,fill = red!30]
 \tikzstyle{io} = [trapezium, trapezium left angle = 70, trapezium right angle =110, minimum width = 3cm, minimum height = 1cm, text centered, draw=black, fill=blue!30]
 \tikzstyle{process} = [rectangle, minimum width = 3cm, minimum height = 1cm, text centered,draw = black, fill= orange!30]
@@ -236,7 +237,44 @@ Algorithms for Bearing Fault Diagnostics}
 	\end{itemize}
 	Lastly,the room temperature and electricity data should be collected.Wrong room temperature might ruin the product quality and 
 high electric consumption could increase the production cost significantly.
-	We can analyze all this data to answer questions like what happened, what happened, what will happen and what action to take.
+	We can analyze all this data to answer questions like what happened, why it happened, what will happen and what action to take.
+	\section{Factory Operating in Different Dimension:}
+	Lets consider a factory where production occurs in a daily basis, a factory of such manner can be divided into various dimension.These are mainly
+	 	\begin{itemize}
+        
+\item{Finance: This portion of the section deals with the financial accounting, the data in this dimension are collected in form of balance sheets, income sheets and cash flow statements }
+\item{People: This dimension deals with issues like office culture, work stress, customer feedback in product development and  work safety data collected in this sector is like number of workers and work schedules} 
+\item{Process: the method of changing or combining the raw materials into the desired substance or product falls under process.This dimension deals with things such as quality control, job scheduling,repair and maintenance, machine operations and flexibility.This dimension give us the opportunity to collect in various form to transform the whole manufacturing process smart and efficient.}
+\item{Product: This part of the dimension deals with logistics, packaging and time to market.
+}
+\item{Strategy: This is the most important dimension in the case of increasing the efficiency of production.Data collected from the above dimension can be analyzed and utilized  to make key strategic decision as analysis of data allows us to get performance metrics  and cost efficient methods of manufacturing.
+ 
+}
+\end{itemize}
+	Data can be collected from all this dimensions in various ways and the methods of storage various depending on connectivity of the factory and the technology used by them
+	\begin{center}
+	
+	
+	\begin{tabu} to 0.8\textwidth { | X[c,] | X[c] | X[c] |  X[c]| X[c]| X[c]|}
+	 \hline
+	 Dimension & Novice & Beginner & Learner & Intermediate & Expert \\	
+	 \hline
+	 Finance & store financial data using spreadsheet & store financial data using hard drive & store financial data using shared HDs & store financial data using cloud & store financial data using fog \\
+	\hline
+	 People & store people’s data using spreadsheet & store people’s data using hard drive & store people’s data using shared HDs & store financial people’s using cloud & store people’s data using fog \\
+	 \hline
+	 Process & store process data using spreadsheet & store process data using hard drive & store process data using shared HDs & store process data using cloud & store process data using fog \\
+	 \hline
+	 Product & store Product data using spreadsheet & store Product data using hard drive & store Product data using shared HDs & store Product data using cloud & store Product data using fog \\
+	 \hline
+	 Strategy & - & - & - & - &-\\
+	 \hline
+	\end{tabu}
+	\end{center}
+
+
+
+	
 \end{normalsize}
   
 \end{document}
