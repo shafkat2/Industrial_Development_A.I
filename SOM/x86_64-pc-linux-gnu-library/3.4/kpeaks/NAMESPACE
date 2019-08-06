@@ -1,0 +1,4 @@
+exportPattern("^[^\\.]")
+importFrom("graphics", "hist", "abline", "lines", "par")
+importFrom("stats", "IQR", "median", "quantile", "var")
+importFrom("utils", "read.table")

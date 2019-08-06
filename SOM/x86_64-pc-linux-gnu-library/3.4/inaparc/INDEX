@@ -1,0 +1,64 @@
+aldaoud                 Initialization of cluster prototypes using
+                        Al-Daoud's algorithm
+ballhall                Initialization of cluster prototypes using Ball
+                        & Hall's algorithm
+crsamp                  Initialization of cluster prototypes using the
+                        centers of random samples
+firstk                  Initialization of cluster prototypes using the
+                        first k objects
+forgy                   Initialization of cluster prototypes using
+                        Forgy's algorithm
+get.algorithms          Get the names of algorithms in 'inaparc'
+hartiganwong            Initialization of cluster prototypes using
+                        Hartigan-Wong's algorithm
+imembones               Initialization of a crisp membership matrix
+                        using a selected cluster
+imembrand               Initialization of membership matrix using
+                        simple random sampling
+imembucr                Initialization of membership degrees over class
+                        range of a selected feature
+inaparc-package         Initialization Algorithms for Partitioning
+                        Cluster Analysis
+inofrep                 Initialization of cluster prototypes using
+                        Inofrep algorithm
+inscsf                  Initialization cluster prototypes using Inscsf
+                        algorithm
+insdev                  Initialization of cluster prototypes using
+                        Insdev algorithm
+is.inaparc              Checking the object class for 'inaparc'
+kkz                     Initialization of cluster prototypes using KKZ
+                        algorithm
+kmpp                    Initialization of cluster prototypes using
+                        K-means++ algorithm
+ksegments               Initialization of cluster prototypes using the
+                        centers of k segments
+ksteps                  Initialization of cluster prototypes using the
+                        centers of k blocks
+lastk                   Initialization of cluster prototypes using the
+                        last k objects
+lhsmaximin              Initialization of cluster prototypes using
+                        Maximin LHS
+lhsrandom               Initialization of cluster prototypes using
+                        random LHS
+maximin                 Initialization of cluster prototypes using
+                        Maximin algorithm
+mscseek                 Initialization of cluster prototypes using the
+                        modified SCS algorithm
+rsamp                   Initialization of cluster prototypes using
+                        simple random sampling
+rsegment                Initialization of cluster prototypes using a
+                        randomly selected segment
+scseek                  Initialization of cluster prototypes using SCS
+                        algorithm
+scseek2                 Initialization of cluster prototypes using SCS
+                        algorithm over a selected feature
+spaeth                  Initialization of cluster prototypes using
+                        Spaeth's algorithm
+ssamp                   Initialization of cluster prototypes using
+                        systematic random sampling
+topbottom               Initialization of cluster prototypes using the
+                        top and bottom objects
+uniquek                 Initialization of cluster prototypes over the
+                        unique values
+ursamp                  Initialization of cluster prototypes using
+                        random sampling on each future

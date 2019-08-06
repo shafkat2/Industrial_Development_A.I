@@ -1,0 +1,10 @@
+findk                   Estimate the Number of Clusters in a Data Set
+findpolypeaks           Find the Peaks of a Frequency Polygon
+genpolygon              Generate the Classes to Build a Frequency
+                        Polygon
+kpeaks-package          Determination of K Using Peak Counts of
+                        Features for Clustering
+plotpolygon             Plot Frequency Polygons
+rmshoulders             Shoulders Removal in Frequency Polygons
+x5p4c                   Synthetic Data Set with 5 Variables and 4
+                        Clusters

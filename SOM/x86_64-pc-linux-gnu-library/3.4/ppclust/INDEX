@@ -1,0 +1,34 @@
+as.ppclust              Convert object to 'ppclust' class
+comp.omega              Compute the possibilistic penalty argument for
+                        PCM
+crisp                   Crisp the fuzzy membership degrees
+ekm                     K-Means Clustering Using Different Seeding
+                        Techniques
+fcm                     Fuzzy C-Means Clustering
+fcm2                    Type-2 Fuzzy C-Means Clustering
+fpcm                    Fuzzy Possibilistic C-Means Clustering
+fpppcm                  Fuzzy Possibilistic Product Partition C-Means
+                        Clustering
+get.dmetrics            List the names of distance metrics
+gg                      Gath-Geva Clustering Algorithm
+gk                      Gustafson-Kessel Clustering
+gkpfcm                  Gustafson-Kessel Clustering Using PFCM
+hcm                     Hard C-Means Clustering
+is.ppclust              Check the class of object for 'ppclust'
+mfpcm                   Modified Fuzzy Possibilistic C-Means Clustering
+pca                     Possibilistic Clustering Algorithm
+pcm                     Possibilistic C-Means Clustering
+pcmr                    Possibilistic C-Means Clustering with Repulsion
+pfcm                    Possibilistic Fuzzy C-Means Clustering
+                        Algorithm
+plotcluster             Plot Clustering Results
+ppclust-package         Probabilistic and Possibilistic Cluster
+                        Analysis
+ppclust2                Convert 'ppclust' objects to the other types of
+                        cluster objects
+summary.ppclust         Summarize the clustering results
+upfc                    Unsupervised Possibilistic Fuzzy C-Means
+                        Clustering Algorithm
+x12                     Synthetic data set of two variables
+x16                     Synthetic data set of two variables forming two
+                        clusters

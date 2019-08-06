@@ -1,0 +1,4 @@
+exportPattern("^[^\\.]")
+importFrom("kpeaks", "findpolypeaks", "genpolygon")
+importFrom("lhs", "maximinLHS", "randomLHS")
+importFrom("stats", "cov", "dist", "IQR", "median", "var", "rnorm", "qnorm", "runif")

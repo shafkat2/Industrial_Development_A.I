@@ -1,0 +1,10 @@
+year <- sub("-.*", "", meta$Date) 
+note <- sprintf("R package version %s", meta$Version)
+textVersion = paste0("Cebeci, Z. & Cebeci, C. (", year,"). inaparc: Initialization Algorithms for Partitioning Cluster Analysis. ", note, ", URL https://CRAN.R-project.org/package=inaparc")
+bibentry(textVersion, bibtype = "Manual",
+ title = "{inaparc}: Initialization Algorithms for Partitioning Cluster Analysis",
+ author = c(person("Zeynel", "Cebeci"),
+ person("Cagatay", "Cebeci")),
+ year = year,
+ note = note, 
+ url = "https://CRAN.R-project.org/package=inaparc")
